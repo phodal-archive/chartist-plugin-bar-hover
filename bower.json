@@ -1,0 +1,20 @@
+{
+  "name": "chartist-plugin-bar-hover",
+  "version": "0.0.1",
+  "authors": [
+    "Fengda HUANG <h@phodal.com>"
+  ],
+  "description": "",
+  "main": [
+    "./chartist-plugin-bar-hover.js"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
