@@ -16,7 +16,7 @@
     Chartist.plugins = Chartist.plugins || {};
     Chartist.plugins.barhover = function () {
 
-      return function barhover(chart) {index.js:11
+      return function barhover(chart) {
         var barColorChangeSelector = 'ct-point';
         if (chart instanceof Chartist.Bar) {
           barColorChangeSelector = 'ct-bar';
